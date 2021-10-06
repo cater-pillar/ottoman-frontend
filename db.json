@@ -1,0 +1,452 @@
+{
+  "land": [
+    {"id":"6",
+      "name":"Ba\u011f",
+      "name_en":"Vineyard"},
+    {"id":"1",
+      "name":"Gayri Mezru Tarla",
+      "name_en":"Uncultivated Field"
+    },
+    {"id":"2",
+      "name":"Mezru Tarla",
+      "name_en":"Cultivated Field"
+    },
+    {"id":"4",
+      "name":"M\u00fcstecir Mezru Tarla",
+      "name_en":"Field Taken for Rent"
+    },
+    {"id":"5",
+      "name":"Sebze Bah\u00e7esi",
+      "name_en":"Vegetables Garden"
+    },
+    {"id":"7",
+      "name":"\u00c7ay\u0131r",
+      "name_en":"Pasture"
+    },
+    {"id":"8",
+      "name":"\u00c7iftlik",
+      "name_en":"Farm"
+    },
+    {"id":"3",
+      "name":"\u0130car ile Verildi\u011fi Tarla",
+      "name_en":"Field Given for Rent"
+    }
+  ],
+  "real_estate": [
+    {"id":"1",
+      "name":"Asiyab",
+      "name_en":"Mill"
+    },
+    {"id":"8",
+      "name":"D\u00fckkan",
+      "name_en":"Store"
+    },
+    {"id":"6",
+      "name":"G\u00fcmr\u00fckhane",
+      "name_en":"Customs Office"
+    },
+    {"id":"2",
+      "name":"Hamam",
+      "name_en":"Bathhouse"
+    },
+    {"id":"3",
+      "name":"Han","name_en":"Inn"
+    },
+    {"id":"4",
+      "name":"Kahvehane",
+      "name_en":"Coffee House"
+    },
+    {"id":"7",
+      "name":"Kirahane",
+      "name_en":"Renthouse"
+    },
+    {"id":"9",
+      "name":"Mahzan",
+      "name_en":"Warehouse"
+    },
+    {"id":"5",
+      "name":"Meyhane",
+      "name_en":"Drink House"
+    }],
+    "tax": [
+      {"id":"3",
+        "name":"bedel-i \u00f6\u015fr-i bostan",
+        "name_en":"tithe (garden)"
+      },
+      {"id":"4",
+        "name":"bedel-i \u00f6\u015fr-i kovan",
+        "name_en":"tithe (beehive)"
+      },
+      {"id":"8",
+        "name":"cizye",
+        "name_en":"poll tax (jizya)"
+      },
+      {"id":"7",
+        "name":"resm-i adet-i a\u011fnam",
+        "name_en":"sheep tax"
+      },
+      {"id":"6",
+        "name":"resm-i as\u0131yab",
+        "name_en":"mill tax"
+      },
+      {"id":"5",
+        "name":"resm-i ba\u011f",
+        "name_en":"vineyard tax"
+      },
+      {"id":"1",
+        "name":"vergi-i mahsuse",
+        "name_en":"general tax"
+      },
+      {"id":"2",
+        "name":"\u00f6\u015f\u00fcr (tarla)",
+        "name_en":"tithe (field)"
+      }],
+  "livestock": [
+    {"id":"31",
+      "name":"Ar\u0131 Kovan\u0131 - bah\u00e7e",
+      "name_en":"Beehive - garden"
+    },
+    {"id":"30",
+      "name":"Ar\u0131 Kovan\u0131 - k\u0131t'a",
+      "name_en":"Beehive - piece"
+    },
+    {"id":"1",
+      "name":"Ar\u0131 Kovan\u0131 - ras",
+      "name_en":"Beehive- head"
+    },
+    {"id":"11",
+      "name":"At - asab",
+      "name_en":"Horse - stallion"
+    },
+    {"id":"14",
+      "name":"At - bebek",
+      "name_en":"Horse - baby"
+    },
+    {"id":"12",
+      "name":"At - k\u0131srak",
+      "name_en":"Horse - mare"
+    },
+    {"id":"13",
+      "name":"At - k\u0131srak tay",
+      "name_en":"Horse - little mare"
+    },
+    {"id":"10",
+      "name":"Bargir",
+      "name_en":"Mule"
+      },
+    {"id":"8",
+      "name":"Ke\u00e7i - k\u0131s\u0131r",
+      "name_en":"Goat - milkless"
+    },
+    {"id":"9",
+      "name":"Ke\u00e7i - o\u011flak",
+      "name_en":"Goat - kid"
+    },
+    {"id":"7",
+      "name":"Ke\u00e7i - o\u011flak furuht",
+      "name_en":"Goat - kid for sale"
+    },
+    {"id":"6",
+      "name":"Ke\u00e7i - sa\u011fman",
+      "name_en":"Goat - milking"
+    },
+    {"id":"5",
+      "name":"Koyun - kuzu",
+      "name_en":"Sheep - lamb"
+    },
+    {"id":"3",
+      "name":"Koyun - kuzu furuht",
+      "name_en":"Sheep - lamb for sale"
+    },
+    {"id":"4",
+      "name":"Koyun - k\u0131s\u0131r",
+      "name_en":"Sheep - milkless"
+    },
+    {"id":"2",
+      "name":"Koyun - sa\u011fman",
+      "name_en":"Sheep - milking"
+    },
+    {"id":"23",
+      "name":"Manda - buza\u011f\u0131, di\u015fi",
+      "name_en":"Buffalo - kid, female"
+    },
+    {"id":"22",
+      "name":"Manda - buza\u011f\u0131, erkek",
+      "name_en":"Buffalo - kid, male"
+    },
+    {"id":"19",
+      "name":"Manda - dana",
+      "name_en":"Buffalo - calf"
+    },
+    {"id":"21",
+      "name":"Manda - erkek",
+      "name_en":"Buffalo - male"
+    },
+    {"id":"20",
+      "name":"Manda - k\u0131s\u0131r",
+      "name_en":"Buffalo - milkless"
+    },
+    {"id":"18",
+      "name":"Manda - sa\u011fman",
+      "name_en":"Buffalo - milking"
+    },
+    {"id":"16",
+      "name":"Merkeb - di\u015fi",
+      "name_en":"Donkey - female"
+    },
+    {"id":"15",
+    "name":"Merkeb - erkek",
+    "name_en":"Donkey - male"
+    },
+    {"id":"17",
+      "name":"\u00d6k\u00fcz",
+      "name_en":"Ox"
+    },
+    {"id":"27",
+      "name":"\u0130nek - buza\u011f\u0131, di\u015fi",
+      "name_en":"Cow - kid, female"
+    },
+    {"id":"26",
+      "name":"\u0130nek - buza\u011f\u0131, erkek",
+      "name_en":"Cow - kid, male"
+    },
+    {"id":"29",
+      "name":"\u0130nek - dana",
+      "name_en":"Cow - calf"
+    },
+    {"id":"25",
+      "name":"\u0130nek - k\u0131s\u0131r",
+      "name_en":"Cow - milkless"
+    },
+    {"id":"24",
+      "name":"\u0130nek - sa\u011fman",
+      "name_en":"Cow - milking"
+    },
+    {"id":"28",
+      "name":"\u0130nek - tosun",
+      "name_en":"Cow - bullock"
+    }],
+    "location": [
+    {"id":"29",
+      "name":"Ac\u0131 Goko Konlu\u011fu",
+      "type_id":"8",
+      "name_id":"2"
+    },
+    {"id":"28",
+      "name":"At Pazar\u0131nda D\u00fckkanlar",
+      "type_id":"8",
+      "name_id":"2"
+      },
+      {"id":"9",
+        "name":"Belgrad",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"10",
+        "name":"Cedide",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"5",
+        "name":"Defterdar",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"7",
+        "name":"Hac\u0131 Bekir",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"4",
+        "name":"H\u00fcnkar",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"23",
+        "name":"Kebir-i Koptiyan",
+        "type_id":"3",
+        "name_id":"2"
+        },
+      {"id":"21",
+        "name":"Kebir-i \u00c7in\u00e7ar",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"30",
+        "name":"Koju\u015fko As\u0131yab",
+        "type_id":"8",
+        "name_id":"2"
+        },
+      {"id":"25",
+        "name":"Mit\u00e7e Konlu\u011fu",
+        "type_id":"8",
+        "name_id":
+        "2"
+      },
+      {"id":"1",
+        "name":"Ni\u015f",
+        "type_id":"2",
+        "name_id":null
+      },
+      {"id":"2",
+        "name":"Ni\u015f",
+        "type_id":"1",
+        "name_id":"1"
+      },
+      {"id":"3",
+        "name":"Ni\u015f",
+        "type_id":"5",
+        "name_id":"2"
+      },
+      {"id":"14",
+        "name":"Papaz Gorki",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"12",
+        "name":"Papaz Kosto",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"18",
+        "name":"Papaz Mito",
+        "type_id":"4",
+        "name_id":"3"
+      },
+      {"id":"16",
+        "name":"Papaz Naon",
+        "type_id":"4",
+        "name_id":"3"
+      },
+      {"id":"15",
+        "name":"Papaz Yone",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"19",
+        "name":"Papaz Yovan",
+        "type_id":"4",
+        "name_id":"3"
+      },
+      {"id":"17",
+        "name":"Papaz Yovan Kefere",
+        "type_id":"4",
+        "name_id":"3"
+      },
+      {"id":"13",
+        "name":"Papaz \u0130stanko",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"8",
+        "name":"Rizaiyye",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"24",
+        "name":"Sa\u011fir-i Koptiyan",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"22",
+        "name":"Sa\u011fir-i \u00c7in\u00e7ar",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"6",
+        "name":"Ta\u015fk\u00f6pr\u00fc",
+        "type_id":"3",
+        "name_id":"2"
+      },
+      {"id":"20",
+        "name":"Yagodin",
+        "type_id":"3",
+        "name_id":"2"
+        },
+      {"id":"11",
+        "name":"Yahyapa\u015fa",
+        "type_id":"3",
+        "name_id":"2"
+      }],
+  "location_name": [
+    {"id":"8",
+      "name":"Di\u011fer",
+      "name_en":"Other"
+    },
+    {"id":"2",
+      "name":"Kaza",
+      "name_en":"District"
+    },
+    {"id":"6",
+      "name":"K\u00f6y",
+      "name_en":"Village"
+    },
+    {"id":"3",
+      "name":"Mahalle",
+      "name_en":"Neighborhood"
+    },
+    {"id":"4",
+      "name":"Neverye",
+      "name_en":"Parish"
+    },
+    {"id":"5",
+      "name":"Varo\u015f",
+      "name_en":"Suburb"
+    },
+    {"id":"7",
+      "name":"\u00c7iftlik",
+      "name_en":"Farm"
+    },
+    {"id":"1",
+      "name":"\u015eehir",
+      "name_en":"Town"
+    }],
+    "member": [
+    {"id":"1",
+      "name":"hane reisi",
+      "name_en":"head of household"
+    },
+    {"id":"2",
+      "name":"valide",
+      "name_en":"mother"
+    },
+    {"id":"3",
+      "name":"halile",
+      "name_en":"wife"
+    },
+    {"id":"4",
+      "name":"karde\u015f",
+      "name_en":"brother"
+    },
+    {"id":"5",
+      "name":"o\u011ful",
+      "name_en":"son"
+    },
+    {"id":"6",
+      "name":"kemin",
+      "name_en":"kemin"
+    },
+    {"id":"7",
+      "name":"hem\u015fire",
+      "name_en":"sister"
+    },
+    {"id":"8",
+      "name":"ye\u011fen",
+      "name_en":"nephew"
+    },
+    {"id":"9",
+      "name":"kay\u0131nvalide",
+      "name_en":"mother-in-law"
+    },
+    {"id":"10",
+      "name":"\u00f6ge o\u011ful",
+      "name_en":"adopted son"
+    }],
+    "occupation": [
+      {"id":"186",
+        "name":"Abac\u0131",
+        "name_en":"Aba Maker",
+        "name_id":"13"
+        },{"id":"230","name":"Aktar Ticareti","name_en":"Spice Seller","name_id":"5"},{"id":"192","name":"Alil","name_en":"Sick","name_id":"4"},{"id":"239","name":"Araba Kirac\u0131","name_en":"Dray Driver","name_id":"18"},{"id":"20","name":"Asakir-i Nizamiye","name_en":"Nizam-i Cedid Army","name_id":"6"},{"id":"249","name":"Ashab-\u0131 Alaka","name_en":"Notable","name_id":"3"},{"id":"6","name":"Askeri Alanda Hizmet Veren G\u00f6revliler","name_en":"Military Officials","name_id":"2"},{"id":"19","name":"Askeri M\u00fclaz\u0131m","name_en":"Military Lieutenant","name_id":"6"},{"id":"235","name":"Avrupa Ticareti","name_en":"European Merchant","name_id":"5"},{"id":"237","name":"Ayak Ticareti","name_en":"Street Merchant","name_id":"5"},{"id":"242","name":"A\u015f\u00e7\u0131","name_en":"Cook","name_id":"17"},{"id":"212","name":"Bah\u00e7evan","name_en":"Gardener","name_id":"9"},{"id":"243","name":"Bakkal","name_en":"Grocer","name_id":"17"},{"id":"201","name":"Bak\u0131c\u0131","name_en":"Watcher","name_id":"8"},{"id":"147","name":"Berber","name_en":"Barber","name_id":"16"},{"id":"238","name":"Bezirgan","name_en":"Wholesale Merchant","name_id":"5"},{"id":"21","name":"Binba\u015f\u0131","name_en":"Lieutenant Commander","name_id":"6"},{"id":"187","name":"Boyac\u0131","name_en":"Dyer","name_id":"13"},{"id":"221","name":"B\u0131\u00e7ak\u00e7\u0131","name_en":"Knife Maker","name_id":"12"},{"id":"159","name":"Debba\u011f","name_en":"Tanner","name_id":"11"},{"id":"149","name":"Dellal","name_en":"Town Crier","name_id":"16"},{"id":"229","name":"Demirci","name_en":"Ironsmith","name_id":"12"},{"id":"177","name":"Dervi\u015f","name_en":"Dervish","name_id":"7"},{"id":"11","name":"Der\u0131den Mal Ureten ve Satan Esnaf","name_en":"Leather Related Craftsmen","name_id":"1"},{"id":"217","name":"Dikici","name_en":"Stitcher","name_id":"14"},{"id":"7","name":"Dini Alanda Hizmet Veren G\u00f6revliler","name_en":"Religious Officials","name_id":"2"},{"id":"15","name":"Di\u011fer Mal \u00dcreten ve Satan Esnaf","name_en":"Craftsmen Producing and Selling Other Products","name_id":"1"},{"id":"13","name":"Dokumac\u0131l\u0131k Alan\u0131ndaki Meslekler","name_en":"Textile Related Craftsmen","name_id":"1"},{"id":"168","name":"Do\u011framac\u0131","name_en":"Woodworker","name_id":"15"},{"id":"233","name":"Duhanc\u0131","name_en":"Tobbacco Seller","name_id":"5"},{"id":"222","name":"D\u00f6kmeci","name_en":"Molder","name_id":"12"},{"id":"158","name":"D\u00fclger","name_en":"Carpenter","name_id":"15"},{"id":"195","name":"D\u00fclkar","name_en":"Widdow","name_id":"4"},{"id":"244","name":"Ekmek\u00e7i","name_en":"Bread Maker","name_id":"17"},{"id":"236","name":"Erbab-\u0131 Ticaret","name_en":"Merchant","name_id":"5"},{"id":"250","name":"Erbab-\u0131 Ziraat","name_en":"Landowner","name_id":"3"},{"id":"232","name":"Eskici","name_en":"Junk Dealer","name_id":"5"},{"id":"198","name":"Fukara","name_en":"Poor Person","name_id":"4"},{"id":"203","name":"Gezginci","name_en":"Guard","name_id":"8"},{"id":"160","name":"G\u00f6nc\u00fc","name_en":"Leather Seller","name_id":"11"},{"id":"188","name":"Halla\u00e7","name_en":"Cotton Fluffer ","name_id":"13"},{"id":"151","name":"Hamam Naziri","name_en":"Bath Sipervisor","name_id":"16"},{"id":"150","name":"Hamamc\u0131","name_en":"Bath Attendant","name_id":"16"},{"id":"152","name":"Hanc\u0131","name_en":"Innkeeper","name_id":"16"},{"id":"169","name":"Has\u0131rc\u0131","name_en":"Caner","name_id":"15"},{"id":"216","name":"Hizmetkar","name_en":"Servant","name_id":"9"},{"id":"215","name":"Irgat","name_en":"Farm Labourer","name_id":"9"},{"id":"245","name":"Kadayif\u00e7i","name_en":"Dessert Maker","name_id":"17"},{"id":"153","name":"Kahveci","name_en":"Coffeehouse Keeper","name_id":"16"},{"id":"154","name":"Kahveci Tabi","name_en":"Coffeehouse Assistant","name_id":"16"},{"id":"223","name":"Kalayc\u0131","name_en":"Tinsmith","name_id":"12"},{"id":"165","name":"Kalpak\u00e7\u0131","name_en":"Fur Cap Maker","name_id":"11"},{"id":"228","name":"Kantarc\u0131","name_en":"Scaler","name_id":"12"},{"id":"246","name":"Kasap","name_en":"Butcher","name_id":"17"},{"id":"204","name":"Katib","name_en":"Scribe","name_id":"8"},{"id":"205","name":"Kavas","name_en":"Armed Constable","name_id":"8"},{"id":"206","name":"Kayyum","name_en":"Mosque Caretaker","name_id":"8"},{"id":"224","name":"Kazanc\u0131","name_en":"Boilersmith","name_id":"12"},{"id":"189","name":"Kazzaz","name_en":"Silk Seller","name_id":"13"},{"id":"190","name":"Ke\u00e7eci","name_en":"Felt Maker","name_id":"13"},{"id":"240","name":"Kirac\u0131","name_en":"Driver","name_id":"18"},{"id":"171","name":"Kiremit\u00e7i","name_en":"Tiler","name_id":"15"},{"id":"172","name":"Koltuk\u00e7u","name_en":"Upholsterer","name_id":"15"},{"id":"241","name":"Ko\u00e7ucu","name_en":"Coach Driver","name_id":"18"},{"id":"14","name":"Kuma\u015ftan Mal \u00dcreten ve Satan Esnaf","name_en":"Craftsmen Working with Cloth","name_id":"1"},{"id":"225","name":"Kuyumcu","name_en":"Goldsmith","name_id":"12"},{"id":"161","name":"K\u00fcrk\u00e7\u00fc","name_en":"Furrier","name_id":"11"},{"id":"23","name":"K\u0131r B\u00f6l\u00fck Ba\u015f\u0131","name_en":"Military Company Commander","name_id":"6"},{"id":"173","name":"Lulac\u0131","name_en":"Pipe Maker","name_id":"15"},{"id":"197","name":"Mecnun","name_en":"Mentally Ill","name_id":"4"},{"id":"12","name":"Metaldan Mal \u00dcreten ve Satan Esnaf","name_en":"Metal Related Craftsmen","name_id":"1"},{"id":"155","name":"Meyhaneci","name_en":"Drink House Keeper","name_id":"16"},{"id":"207","name":"Mezarc\u0131","name_en":"Gravedigger","name_id":"8"},{"id":"226","name":"Mineci","name_en":"Enamelist","name_id":"12"},{"id":"208","name":"Muhtar","name_en":"Neighborhood Representative","name_id":"8"},{"id":"209","name":"Muhz\u0131r","name_en":"Bailiff","name_id":"8"},{"id":"176","name":"Mumcu","name_en":"Candle Maker","name_id":"15"},{"id":"191","name":"Mutaf","name_en":"Weaver of Goat's Hair","name_id":"13"},{"id":"180","name":"M\u00fcderris","name_en":"Teacher","name_id":"7"},{"id":"179","name":"M\u00fcezzin","name_en":"Muezzin","name_id":"7"},{"id":"185","name":"M\u00fcft\u00fc","name_en":"Mufti","name_id":"7"},{"id":"181","name":"M\u00fctevelli","name_en":"Overseer","name_id":"7"},{"id":"227","name":"Nalbant","name_en":"Horseshoer","name_id":"12"},{"id":"196","name":"Nisa Taifesinden","name_en":"Woman","name_id":"4"},{"id":"210","name":"N\u00fcf\u00fcs Naziri","name_en":"Civil Registry Officer","name_id":"8"},{"id":"234","name":"Oduncu","name_en":"Lumberjack","name_id":"5"},{"id":"184","name":"Papas","name_en":"Priest","name_id":"7"},{"id":"218","name":"Papu\u00e7\u00e7u","name_en":"Shoe Maker","name_id":"14"},{"id":"251","name":"Ren\u00e7ber","name_en":"Farmer","name_id":"3"},{"id":"174","name":"Saat\u00e7\u0131","name_en":"Watchmaker","name_id":"15"},{"id":"200","name":"Salc\u0131","name_en":"Orphan (?)","name_id":"4"},{"id":"162","name":"Sara\u00e7","name_en":"Saddler","name_id":"11"},{"id":"24","name":"Sekban","name_en":"Mercenary Soldier","name_id":"6"},{"id":"163","name":"Semerci","name_en":"Pack Saddler","name_id":"11"},{"id":"156","name":"Seyis","name_en":"Stableman","name_id":"16"},{"id":"247","name":"Simit\u00e7i","name_en":"Bagel Seller","name_id":"17"},{"id":"25","name":"Sipahi","name_en":"Cavarlyman","name_id":"6"},{"id":"26","name":"Sipahi Kula\u011fas\u0131","name_en":"Cavarly Adjuctant Major","name_id":"6"},{"id":"183","name":"Talebe-i Ulum","name_en":"Student","name_id":"7"},{"id":"18","name":"Ta\u015f\u0131mac\u0131l\u0131k Alan\u0131ndaki Meslekler","name_en":"Transport Related Occupations","name_id":"1"},{"id":"219","name":"Terzi","name_en":"Tailor","name_id":"14"},{"id":"142","name":"Top\u00e7u","name_en":"Artilleryman","name_id":"6"},{"id":"145","name":"Top\u00e7u M\u00fclazim","name_en":"Artillery Lieutenant","name_id":"6"},{"id":"143","name":"Top\u00e7u Onba\u015f\u0131","name_en":"Artillery Corporal","name_id":"6"},{"id":"146","name":"Top\u00e7u Y\u00fczba\u015f\u0131","name_en":"Artillery Captain","name_id":"6"},{"id":"144","name":"Top\u00e7u \u00c7avu\u015f","name_en":"Artillery Sergeant","name_id":"6"},{"id":"231","name":"Tuz Ticareti","name_en":"Salt Seller","name_id":"5"},{"id":"175","name":"T\u00fcfek\u00e7i","name_en":"Gunsmith","name_id":"15"},{"id":"164","name":"Yemenici","name_en":"Leather Shoe Maker","name_id":"11"},{"id":"248","name":"Yemi\u015f\u00e7i","name_en":"Dried Fruit Seller","name_id":"17"},{"id":"199","name":"Yetim","name_en":"Orphan","name_id":"4"},{"id":"17","name":"Yiyecek Maddeleri \u00dcreten ve Satan Esnaf","name_en":"Craftsmen Producing and Selling Food","name_id":"1"},{"id":"220","name":"Yorganc\u0131","name_en":"Quilt Maker","name_id":"14"},{"id":"30","name":"Y\u00fczba\u015f\u0131","name_en":"Military Captain","name_id":"6"},{"id":"27","name":"Zabit","name_en":"Officer","name_id":"6"},{"id":"28","name":"Zabit Sekban","name_en":"Mercenary Officer","name_id":"6"},{"id":"29","name":"Zabit Sipahi","name_en":"Cavarly Officer","name_id":"6"},{"id":"211","name":"Ziraat M\u00fcd\u00fcr\u00fc","name_en":"Agriculture Director","name_id":"8"},{"id":"148","name":"\u00c7alg\u0131c\u0131","name_en":"Musician","name_id":"16"},{"id":"213","name":"\u00c7apac\u0131","name_en":"Hoer (agriculture)","name_id":"9"},{"id":"16","name":"\u00c7e\u015fitli Hizmetleri Yerine Getirenler","name_en":"Service Related Craftsmen","name_id":"1"},{"id":"214","name":"\u00c7oban","name_en":"Shepherd","name_id":"9"},{"id":"202","name":"\u00c7ocuklar Okutma","name_en":"Children Teacher","name_id":"8"},{"id":"167","name":"\u00c7ubuk\u00e7u","name_en":"Tobacco Pipe Maker","name_id":"15"},{"id":"166","name":"\u00c7\u00f6mlek\u00e7i","name_en":"Potter","name_id":"15"},{"id":"8","name":"\u0130ctimai ve \u0130dari Alanda Hizmet Veren G\u00f6revliler","name_en":"Administrative and Social Officials","name_id":"2"},{"id":"193","name":"\u0130htiyar","name_en":"Old","name_id":"4"},{"id":"194","name":"\u0130htiyar ve Alil","name_en":"Old and Sick","name_id":"4"},{"id":"178","name":"\u0130mam","name_en":"Imam","name_id":"7"},{"id":"170","name":"\u0130p\u00e7i","name_en":"Ropemaker","name_id":"15"},{"id":"22","name":"\u0130\u015fkenci S\u00fcvari","name_en":"\u0130\u015fkenci Cavarly","name_id":"6"},{"id":"157","name":"\u015eark\u0131c\u0131","name_en":"Singer","name_id":"16"},{"id":"182","name":"\u015eeyh","name_en":"Sheikh","name_id":"7"}],
+    "household": []
+      }
